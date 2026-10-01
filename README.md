@@ -51,9 +51,6 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-TANMAYGUPTA28-181717?style=for-the-badge&logo=github)](https://github.com/TANMAYGUPTA28)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tanmaygupta28)
-[![Gmail](https://img.shields.io/badge/Email-tygupta28@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tygupta28@gmail.com)
 
 </div>
 
